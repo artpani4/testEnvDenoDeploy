@@ -1,0 +1,9 @@
+{
+  "lock": false,
+  "version": "0.0.1-alpha",
+  "tasks": {
+    "run": "deno -A ./main.ts"
+  }
+ 
+
+}
